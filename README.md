@@ -1,21 +1,21 @@
 # Meu Portfólio Pessoal
 
-Bem-vindo(a) ao meu portfólio pessoal! Este repositório contém uma coleção dos meus projetos e trabalhos, demonstrando minhas habilidades em [sua área de atuação, ex: desenvolvimento web, design, ciência de dados].
+Bem-vindo(a) ao meu portfólio pessoal! Este repositório contém uma coleção dos meus projetos e trabalhos, demonstrando minhas habilidades em desenvolvimento Full Stack, design, ciência de dados. 
 
 ## Sobre Mim
 
-Sou [Seu Nome], um(a) [Sua Profissão/Área de Estudo] apaixonado(a) por [Seus Interesses]. Meu objetivo é [Seu Objetivo Profissional].
+Sou Catarina Sonsine, uma física computacional e estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia, inovação e desenvolvimento de projetos. Meu objetivo profissional é atuar como desenvolvedora Full Stack, com as linguagens python, javascript, c++
 
 ## Projetos
 
 Aqui estão alguns dos projetos que desenvolvi:
 
-### Projeto 1: [Nome do Projeto 1]
+### Projeto 1: site simples
 - **Descrição**: Breve descrição do projeto.
 - **Tecnologias**: [Lista de tecnologias usadas, ex: HTML, CSS, JavaScript, React]
 - **Link**: [Link para o projeto online ou repositório específico]
 
-### Projeto 2: [Nome do Projeto 2]
+### Projeto 2: SQL Server
 - **Descrição**: Breve descrição do projeto.
 - **Tecnologias**: [Lista de tecnologias usadas]
 - **Link**: [Link para o projeto online ou repositório específico]
@@ -24,10 +24,10 @@ Aqui estão alguns dos projetos que desenvolvi:
 
 Sinta-se à vontade para entrar em contato comigo:
 
-- **Email**: seuemail@example.com
-- **LinkedIn**: [Link para o seu perfil do LinkedIn]
-- **GitHub**: [Link para o seu perfil do GitHub]
+- **Email**: catarinasonsine97@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/catarina-sonsine/
+- **GitHub**: https://github.com/catarinasonsine97-hash
 
 ## Como Visualizar
 
-Este portfólio está hospedado no GitHub Pages. Você pode acessá-lo diretamente pelo link: [Será adicionado aqui após a configuração do GitHub Pages]
+Este portfólio está hospedado no GitHub Pages. Você pode acessá-lo diretamente pelo link: https://catarinasonsine97-hash.github.io/portf-lio-pessoal/
